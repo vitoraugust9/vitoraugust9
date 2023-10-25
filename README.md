@@ -5,7 +5,6 @@
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/vitoraugust9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/vitoraugust9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vitoraugustosilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitoraugustosilva/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22802734/vitor-augusto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22802734/vitor-augusto" height="30" width="40" /></a>
 </p>
