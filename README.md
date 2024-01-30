@@ -12,12 +12,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vitoraugust9/vitoraugust9/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="www.linkedin.com/in/vitoraugustosilva" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
