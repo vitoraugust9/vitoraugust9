@@ -5,25 +5,25 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoraugust9&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="175" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=vitoraugust9&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B,%20Y%5D&order=3" height="175" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=vitoraugust9&theme=radical&column=3&row=1&margin-w=10&margin-h=0&no-bg=true&no-frame=true&order=4" height="175" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vitoraugust9&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoraugust9&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=vitoraugust9&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="left">
   <a href="www.linkedin.com/in/vitoraugustosilva" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
   <a href="vitoraugustovitor8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/vitoraugusto__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UC3uvAuTKGxgtx8F7IgbsD4w" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  />
   </a>
 </div>
 
