@@ -7,7 +7,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vitoraugust9&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoraugust9&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=vitoraugust9&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
